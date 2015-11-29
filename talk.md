@@ -10,10 +10,6 @@ UiT The Arctic University of Norway
 
 layout: false
 
-<img src="{{ base }}/img/under_the_hood.png" style="width: 600px;"/>
-
----
-
 <img src="{{ base }}/img/git-fire.jpg" style="width: 600px;"/>
 
 ---
@@ -85,3 +81,7 @@ https://github.com/codedance/Retaliation
 this by playing a pre-programmed control sequence to a USB Foam Missile Launcher to target the offending code monkey."
 
 <img src="{{ base }}/img/launcher.jpg" style="width: 400px;"/>
+
+---
+
+<img src="{{ base }}/img/under_the_hood.png" style="width: 600px;"/>
